@@ -1,16 +1,11 @@
-# h1d023030_tugaas7
+Tugas 7 - Prak. Pemrograman Mobile 
 
-tugas 7 pertemuan 9
+Khaila Salsa Marfah Bilqis
+H1D023030
+Shift H / Shift C 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tampilkan Aplikasi 
+![screenshot  ](screenshot/ss1.jpeg)
+![screenshot  ](screenshot/ss2.jpeg)
+![screenshot  ](screenshot/ss3.jpeg)
+![screenshot  ](screenshot/ss4.jpeg)
